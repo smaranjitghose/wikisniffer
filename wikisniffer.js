@@ -165,7 +165,7 @@ Usage:
   node wikisniffer.js "search term"
 
 Examples:
-  node wikisniffer.js terms.txt
+  node wikisniffer.js topics.txt
   node wikisniffer.js "artificial intelligence"
 
 Features:
