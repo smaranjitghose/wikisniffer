@@ -1,0 +1,17 @@
+{
+  "name": "wikisniffer",
+  "version": "1.0.0",
+  "description": "Wikipedia search and screenshot automation tool",
+  "main": "wikisniffer.js",
+  "scripts": {
+    "dev": "node wikisniffer.js topics.txt"
+  },
+  "author": "Smaranjit Ghose",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.40.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
